@@ -1,7 +1,6 @@
 # English-Spelling-Corrector
 
 
-#### Concept
 
 Objective: To build a basic spelling corrector from scratch that suggests the most probable correct word for a given misspelled input word, without using external NLP libraries.
 
